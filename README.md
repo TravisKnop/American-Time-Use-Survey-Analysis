@@ -3,12 +3,13 @@
 ## Description
 
 This is a dive into the U.S. Department of Labor's "Americans' Time Use Survey".
+
 Specifically, I was looking at couples in their prime working and child-bearing years (25-55 years old).
 A generic 28-year-old spends time on leisure, work, sleep, etc. Men and women allocate their time differently.
-What if men/women are in a live-in relationship? How do they allocate their time differently than if they were single? Do men with a partner spend more or less time on housework than single men? What about women?
+What if men/women are in a domestic relationship? How do they allocate their time differently than if they were single? Do men with a partner spend more or less time on housework than single men? Do women?
 Further, what happens if these groups have children? How does the division of labor shift between men/women after having children?
 
-This is by no means an exhaustive analysis, but ipynb shows a few graphs for comparison.
+This is by no means an exhaustive analysis, but ipynb shows graphs for comparison.
 
 
 ### Learning Objectives
