@@ -2,9 +2,14 @@
 
 ## Description
 
-Use the U.S. Department of Labor's data on Americans' time use for research and analysis.
+This is a dive into the U.S. Department of Labor's "Americans' Time Use Survey".
+Specifically, I was looking at couples in their prime working and child-bearing years (25-55 years old).
+A generic 28-year-old spends time on leisure, work, sleep, etc. Men and women allocate their time differently.
+What if men/women are in a live-in relationship? How do they allocate their time differently than if they were single? Do men with a partner spend more or less time on housework than single men? What about women?
+Further, what happens if these groups have children? How does the division of labor shift between men/women after having children?
 
-## Objectives
+This is by no means an exhaustive analysis, but ipynb shows a few graphs for comparison.
+
 
 ### Learning Objectives
 
@@ -36,6 +41,7 @@ After completing this assignment, you should be able to:
 
 * Passing unit tests
 * No PEP8 or Pyflakes warnings or errors
+
 
 ## Normal Mode
 
